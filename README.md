@@ -11,7 +11,7 @@ The values of `s` tested are 11, 275, 6569, 168342, and 4314399. These were chos
         .toArray();
 ```
 
-To Run the benchmarks, [this webrev](webrev.zip) must be applied to a jdk 13 build (viewable [here](http://august.nagro.us/presized-collectors/webrev/))
+To Run the benchmarks, [this webrev](http://august.nagro.us/presized-collectors/webrev.zip) must be applied to a jdk 13 build (viewable [here](http://august.nagro.us/presized-collectors/webrev/))
 
 ## Results:
 Here are some graphs after running with `-prof gc` on my 2015 Macbook Pro:
